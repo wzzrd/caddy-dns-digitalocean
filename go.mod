@@ -1,4 +1,4 @@
-module github.com/caddy-dns/digitalocean
+module github.com/wzzrd/caddy-dns-digitalocean
 
 go 1.14
 
