@@ -3,7 +3,7 @@ package digitalocean
 import (
 	"github.com/caddyserver/caddy/v2"
 	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
-	"github.com/wzzrd/digitalocean"
+	"github.com/wzzrd/libdns-digitalocean"
 )
 
 // Provider wraps the provider implementation as a Caddy module.
